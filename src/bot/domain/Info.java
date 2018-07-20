@@ -26,4 +26,5 @@ public class Info implements Serializable {
     private int hour;
     private int minute;
     private int time;
+    private String raidAchievement;
 }
