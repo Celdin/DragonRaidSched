@@ -16,8 +16,8 @@ public enum Messages {
 	NOT_START("Aucune annonce de faite."),
 	MAUVAISE_COMMANDE("Commande non-comprise"),
 	TAPE_HELP("tape " + ProcessMessage.HELP + " pour de l'aide"),
-	INSCRITPION("Merci de t'inscrire (indique les emotes des diverses classes que tu peux jouer en Raid)"),
-	OVERFLOW("10 personnes sont déjà  inscrites, tu seras en reserve"),
+	INSCRITPION("Merci de t'inscrire (indique les émotes des diverses classes que tu peux jouer en Raid)"),
+	OVERFLOW("10 personnes sont déjà  inscrites, tu seras en réserve"),
 	NO_INSCRIPTION("Aucune inscription n'avait été faite");
 	private String message; 
 }
